@@ -16,5 +16,9 @@ A simple C++ application that calculates the user's age based on the birth year 
 ## Technologies
 - C++
 
+- ## Preview
+
+![Project Screenshot](Screenshot 2026-06-22 233845.png)
+
 ## Author
 Mohamed Waleed
